@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fav-tv-series/static/css/main.50521234.chunk.css",
+    "main.js": "/fav-tv-series/static/js/main.76e2ee4a.chunk.js",
+    "main.js.map": "/fav-tv-series/static/js/main.76e2ee4a.chunk.js.map",
+    "runtime-main.js": "/fav-tv-series/static/js/runtime-main.fca2e442.js",
+    "runtime-main.js.map": "/fav-tv-series/static/js/runtime-main.fca2e442.js.map",
+    "static/js/2.e1cdcee3.chunk.js": "/fav-tv-series/static/js/2.e1cdcee3.chunk.js",
+    "static/js/2.e1cdcee3.chunk.js.map": "/fav-tv-series/static/js/2.e1cdcee3.chunk.js.map",
+    "static/js/3.0fe302ca.chunk.js": "/fav-tv-series/static/js/3.0fe302ca.chunk.js",
+    "static/js/3.0fe302ca.chunk.js.map": "/fav-tv-series/static/js/3.0fe302ca.chunk.js.map",
+    "index.html": "/fav-tv-series/index.html",
+    "static/css/main.50521234.chunk.css.map": "/fav-tv-series/static/css/main.50521234.chunk.css.map",
+    "static/js/2.e1cdcee3.chunk.js.LICENSE.txt": "/fav-tv-series/static/js/2.e1cdcee3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fca2e442.js",
+    "static/js/2.e1cdcee3.chunk.js",
+    "static/css/main.50521234.chunk.css",
+    "static/js/main.76e2ee4a.chunk.js"
+  ]
+}
