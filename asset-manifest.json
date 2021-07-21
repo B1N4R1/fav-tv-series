@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fav-tv-series/static/css/main.50521234.chunk.css",
-    "main.js": "/fav-tv-series/static/js/main.433976c0.chunk.js",
-    "main.js.map": "/fav-tv-series/static/js/main.433976c0.chunk.js.map",
+    "main.js": "/fav-tv-series/static/js/main.edf59e36.chunk.js",
+    "main.js.map": "/fav-tv-series/static/js/main.edf59e36.chunk.js.map",
     "runtime-main.js": "/fav-tv-series/static/js/runtime-main.fca2e442.js",
     "runtime-main.js.map": "/fav-tv-series/static/js/runtime-main.fca2e442.js.map",
     "static/js/2.e1cdcee3.chunk.js": "/fav-tv-series/static/js/2.e1cdcee3.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fca2e442.js",
     "static/js/2.e1cdcee3.chunk.js",
     "static/css/main.50521234.chunk.css",
-    "static/js/main.433976c0.chunk.js"
+    "static/js/main.edf59e36.chunk.js"
   ]
 }
